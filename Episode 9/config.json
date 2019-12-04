@@ -2,6 +2,10 @@
   "prefix": "!",
   "logsChannel": "logs",
   "reportsChannel": "reports",
+  "roleName": "THE ROLE NAME YOU WANT TO CHANGE ITS COLOR FROM HERE",
+	"colors": 12,
+	"speed": 60000,
+	"logging": true
 
   "activity": {
     "streaming": false,
